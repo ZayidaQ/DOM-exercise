@@ -39,5 +39,3 @@ for (let i = 0; i < lists.length; i++) {
 
 // Remove the div with a class of footer.
 footer.remove();
-
-// testing
