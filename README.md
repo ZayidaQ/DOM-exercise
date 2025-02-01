@@ -1,1 +1,1 @@
-6.2 Springboard exercise - Dom exercise
+## 6.2 Springboard exercise - Dom exercise
